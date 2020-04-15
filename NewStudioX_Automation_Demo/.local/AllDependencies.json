@@ -1737,15 +1737,15 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\palla\\.nuget\\packages\\": {}
+    "C:\\Users\\Parag\\.nuget\\packages\\": {}
   },
   "project": {
     "restore": {
       "projectUniqueName": "NewStudioX_Automation_Demo",
       "projectName": "NewStudioX_Automation_Demo",
-      "projectPath": "C:\\Users\\palla\\Documents\\UiPath\\NewStudioX_Automation_Demo\\.local",
-      "packagesPath": "C:\\Users\\palla\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\palla\\Documents\\UiPath\\NewStudioX_Automation_Demo\\.local"
+      "projectPath": "D:\\My Data\\Sonali\\uipath_repo\\uipath\\NewStudioX_Automation_Demo\\.local",
+      "packagesPath": "C:\\Users\\Parag\\.nuget\\packages\\",
+      "outputPath": "D:\\My Data\\Sonali\\uipath_repo\\uipath\\NewStudioX_Automation_Demo\\.local"
     },
     "frameworks": {
       "net461": {
